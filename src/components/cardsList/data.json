@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "titulo uno",
+        "subtitle": "subtitulo1",
+        "cuerpo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "link": "link",
+        "otherLink": "otherlink"
+    },
+    {
+        "id": 2,
+        "title": "titulo dos",
+        "subtitle": "subtitulo2",
+        "cuerpo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "link": "link",
+        "otherLink": "otherlink"
+    },
+    {
+        "id": 3,
+        "title": "titulo tres",
+        "subtitle": "subtitulo3",
+        "cuerpo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "link": "link",
+        "otherLink": "otherlink"
+    },
+    {
+        "id": 4,
+        "title": "titulo cuatro",
+        "subtitle": "subtitulo4",
+        "cuerpo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "link": "link",
+        "otherLink": "otherlink"
+    }
+]
